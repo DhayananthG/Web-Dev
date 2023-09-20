@@ -1,0 +1,38 @@
+body{
+    background-color: ;
+}
+button{
+    width: 55px;
+    height: 55px;
+    margin: 3px;
+    background-color: teal;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    border: none;
+    border-radius: 4px;
+}
+.but{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Abril Fatface 400';
+    text-align: center;
+    background-color: 
+}
+.textstyle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.textsize{
+    border: 3px solid;
+    border-radius: 10px;
+    width: 190px;
+    height: 60px;
+}
